@@ -28,11 +28,11 @@
   <br/>
   <div align="left">
     <h1>My Github Stats 🗽</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=MrSmoke0&show_icons=true&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Xyper0&show_icons=true&theme=tokyonight"/>
     <br/><br/>
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmoke0&layout=compac&langs_count=8t&theme=tokyonight"/>
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyper0&layout=compac&langs_count=8t&theme=tokyonight"/>
     <br/><br/>
   </div>
   
   <h3> 🏆 Github Trophy Profile</h3>
-   <img src="https://github-profile-trophy.vercel.app/?username=MrSmoke0&theme=gruvbox"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=Xyper0&theme=gruvbox"/>
