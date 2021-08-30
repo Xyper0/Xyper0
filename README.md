@@ -34,7 +34,5 @@
     <br/><br/>
   </div>
   
-  # Github Trophy : 
-    ![trophy](https://github-profile-trophy.vercel.app/?username=MrSmoke0&theme=gruvbox)
-![stats](https://github-readme-stats.vercel.app/api?username=MrSmoke0&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSmoke0&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  <h3>🏆 Github Trophy Profile</h3>
+   <img src="https://github-profile-trophy.vercel.app/?username=MrSmoke0&theme=gruvbox"/>
