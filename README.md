@@ -34,5 +34,5 @@
     <br/><br/>
   </div>
   
-  <h3>🏆 Github Trophy Profile</h3>
+  <h3> 🏆 Github Trophy Profile</h3>
    <img src="https://github-profile-trophy.vercel.app/?username=MrSmoke0&theme=gruvbox"/>
