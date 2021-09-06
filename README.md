@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey There! I'm Xyper 😉</h2>
+  <h2>Hey There! I'm <strong>Xyper</strong> 😉</h2>
   <img src="https://discord.c99.nl/widget/theme-1/214424327167279104.png"/>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=MrSmoke0&color=blue"/>
