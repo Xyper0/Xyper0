@@ -31,11 +31,9 @@
     <code><img height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="Express"/></code>&nbsp;
     <code><img height="40" src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/></code>&nbsp;
     <code><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/api-settings.png" alt="API"/></code>&nbsp;
+    <code><img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></code>&nbsp;
   </div>
 </div>
-
-<br/>
-
 <div align="left">
   <h1>My Github Stats 🗽</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Xyper0&show_icons=true&theme=tokyonight" alt="Github Stats"/>
